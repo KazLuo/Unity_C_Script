@@ -1,5 +1,5 @@
 
-## Introduction
+# Introduction
 
 This is my first Prototype project in my studies. The game style uses 80's and Synthwave elements. The game uses Time limit gameplay to add a sense of tension to the game.
  In this game, you will play as a white square and escape from a never-ending maze.
@@ -7,7 +7,7 @@ This is my first Prototype project in my studies. The game style uses 80's and S
 
 During the learning process, I used the following items to complete this project
 
-# C# Script:
+## C# Script:
 
 Character movement
 
@@ -17,7 +17,7 @@ Character triggering events
 
 Vector Lerp
 
-#Unity:#
+## Unity:
 
 Animation/Animator
 
@@ -31,7 +31,7 @@ Material & Texture
 
 Collider/Collision
 
-#Feature#
+## Feature
 
 -Synthwave /80's style
 
